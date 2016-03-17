@@ -8,5 +8,6 @@
 </head>
 <body>
 <a href="model/Servlet">我的美美網頁</a>
+<a href="www.yahoo.com.tw">碩文小天地</a>
 </body>
 </html>

@@ -17,6 +17,12 @@ public class Servlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		out.println("<html><body>");
 		out.println("<h1>My HTML Body</h1>");
+		out.println("<H1>00000000000<H1>");
+		out.println("<H1>00000000000<H1>");
+		out.println("<H1>碩文救我<H1>");
+		out.println("<H1>00000000000<H1>");
+		out.println("<H1>00000000000<H1>");
+		out.println("<H1>千慧救我<H1>");
 		out.println("</html></body>");
 	}
 
