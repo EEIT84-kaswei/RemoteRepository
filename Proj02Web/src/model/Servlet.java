@@ -22,6 +22,10 @@ public class Servlet extends HttpServlet {
 		out.println("<H1>00000000000<H1>");
 		out.println("<H1>00000000000<H1>");
 		out.println("<H1>00000000000<H1>");
+		
+		out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");
+		out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");
+		out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");
 	}
 
 	@Override
