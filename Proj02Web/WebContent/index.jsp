@@ -7,7 +7,7 @@
 <title>拍拍澎配</title>
 </head>
 <body>
-<a href="model/Servlet">我的美美網頁</a>
-<a href="www.yahoo.com.tw">碩文小天地</a>
+<a href="xoxoxoxox/mnmnmnnmnmn">我的美美網頁</a>
+<a href="https://www.google.com.tw/">碩文小天地</a>
 </body>
 </html>
