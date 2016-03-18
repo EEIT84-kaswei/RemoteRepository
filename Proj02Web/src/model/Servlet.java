@@ -19,22 +19,32 @@ public class Servlet extends HttpServlet {
 		out.println("<h1>My HTML Body</h1>");
 
 
-		out.println("<H1>碩文救我<H1>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
+		out.println("因排版問題所以我放棄了br>");
 
-		out.println("<H1>00000000000<H1>");
-		out.println("<H1>00000000000<H1>");
-		out.println("<H1>00000000000<H1>");
-
-		
-		out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");
-		out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");
-		out.println("<H1>碩文救我<H1>");out.println("<H1>碩文救我<H1>");
-
-
-		out.println("<H1>11111111111<H1>");
-		out.println("<H1>11111111111<H1>");
-		out.println("<H1>11111111111<H1>");
-
+		out.println("</body></html>");
 
 	}
 
